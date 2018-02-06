@@ -1,0 +1,1929 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.0" icons="true" always-add-relationships="true" generalizations="true" realizations="true" 
+  associations="true" dependencies="true" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="param_stuff.ParamTag" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/param_stuff/ParamTag.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2141" y="1074"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="param_stuff.ParamType" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/param_stuff/ParamType.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2423" y="1290"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="param_stuff.Param" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/param_stuff/Param.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1707" y="1305"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="param_stuff.ObjParam" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/param_stuff/ObjParam.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1896" y="1583"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="param_stuff.StaticParam" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/param_stuff/StaticParam.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1530" y="1579"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="param_stuff.Obj" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/param_stuff/Obj.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2568" y="1531"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="param_stuff.Static" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/param_stuff/Static.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2349" y="1522"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="params.AmtObj.Type" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/params/AmtObj.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2142" y="1867"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="params.AmtObj" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/params/AmtObj.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1920" y="1861"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="params.EnemyIdObj" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/params/EnemyIdObj.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1798" y="2010"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="params.EnemyIdObj.Type" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/params/EnemyIdObj.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1993" y="2027"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="params.ItemsStatic.Type" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/params/ItemsStatic.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1519" y="2036"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="params.ItemsStatic" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/params/ItemsStatic.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1533" y="1906"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="param_stuff.ParamSet" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/param_stuff/ParamSet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2342" y="1107"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="param_stuff.ParamSetEval" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/param_stuff/ParamSetEval.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1916" y="1099"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="params.ItemIdObj" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/params/ItemIdObj.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1948" y="2204"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="params.ItemIdObj.Type" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/params/ItemIdObj.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1880" y="2352"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="params.NewItemIdObj.Type" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/params/NewItemIdObj.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2132" y="2346"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="params.NewItemIdObj" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/params/NewItemIdObj.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2212" y="2198"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="params.NewItemNameObj.Type" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/params/NewItemNameObj.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1611" y="2352"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="params.NewItemNameObj" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/params/NewItemNameObj.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1696" y="2204"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="params.StrObj" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/params/StrObj.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2446" y="2208"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="params.StrObj.Type" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/params/StrObj.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2384" y="2356"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="params.ItemObj.Type" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/params/ItemObj.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1384" y="2329"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="params.ItemObj" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/params/ItemObj.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1448" y="2190"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="process_stuff.Command" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/process_stuff/Command.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3641" y="1573"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="process_stuff.Function" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/process_stuff/Function.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3831" y="1557"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="process_stuff.Process" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/process_stuff/Process.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3708" y="1192"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="processes.AdditemCom" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/processes/AdditemCom.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3350" y="1800"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="processes.EchoFunc" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/processes/EchoFunc.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3866" y="1774"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="31" language="java" name="processes.ExitFunc" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/processes/ExitFunc.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4102" y="1778"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" name="processes.GiveCom" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/processes/GiveCom.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3584" y="1790"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="processes.HelpFunc" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/processes/HelpFunc.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3872" y="1948"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="processes.HitFunc" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/processes/HitFunc.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4096" y="1940"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="35" language="java" name="processes.InvtFunc" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/processes/InvtFunc.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3860" y="2140"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="36" language="java" name="processes.ListitemsCom" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/processes/ListitemsCom.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3310" y="1984"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="37" language="java" name="processes.SpawnCom" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/processes/SpawnCom.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3562" y="1996"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="38" language="java" name="begin.Runner" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/begin/Runner.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2760" y="-296"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="39" language="java" name="base.GameBase" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/base/GameBase.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2776" y="-24"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="40" language="java" name="base.GameWindow" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/base/GameWindow.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3100" y="-164"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="41" language="java" name="base.HelpSet" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/base/HelpSet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1196" y="-140"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="42" language="java" name="base.InputHelp" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/base/InputHelp.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1432" y="-144"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="43" language="java" name="base.Location" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/base/Location.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2972" y="708"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="44" language="java" name="base.Output.OutputIterator" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/base/Output.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="855" y="379"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="45" language="java" name="base.Output" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/base/Output.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="952" y="24"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="46" language="java" name="base.OutputPart" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/base/OutputPart.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="636" y="-88"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="47" language="java" name="base.Thing" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/base/Thing.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="372" y="1000"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="48" language="java" name="input.Input" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/input/Input.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1276" y="356"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="49" language="java" name="input.InputError" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/input/InputError.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1500" y="220"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="50" language="java" name="input.InputPart" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/input/InputPart.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="108" x="1650" y="506"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="51" language="java" name="input.InputPartTag" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/input/InputPartTag.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1912" y="616"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="52" language="java" name="input.Log" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/input/Log.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1016" y="656"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="53" language="java" name="input.NakedInputPart" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/input/NakedInputPart.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1508" y="684"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="54" language="java" name="input.TaggedInputPart" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/input/TaggedInputPart.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1268" y="748"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="55" language="java" name="hero.Hero" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/hero/Hero.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="279" width="93" x="4174" y="5"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="56" language="java" name="hero.Invt" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/hero/Invt.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="185" x="4492" y="-33"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="57" language="java" name="hero.Item" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/hero/Item.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4398" y="518"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="58" language="java" name="hero.ItemStack" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/hero/ItemStack.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4656" y="556"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="59" language="java" name="hero.Stat" project="Story Game Revival - Ver 2" 
+    file="/Story Game Revival - Ver 2/src/hero/Stat.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4028" y="280"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <dependency id="60">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="37"/>  
+  </dependency>  
+  <association id="61">    
+    <end type="SOURCE" refId="49" navigable="false">      
+      <attribute id="62" name="failedPart">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="63" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="64">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <dependency id="65">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="35"/>  
+  </dependency>  
+  <generalization id="66">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <dependency id="67">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <dependency id="68">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="34"/>  
+  </dependency>  
+  <association id="69">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="70" name="output">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="71" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="45" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="72">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="28"/>  
+  </generalization>  
+  <dependency id="73">    
+    <end type="SOURCE" refId="48"/>    
+    <end type="TARGET" refId="53"/>  
+  </dependency>  
+  <association id="74">    
+    <end type="SOURCE" refId="55" navigable="false">      
+      <attribute id="75" name="stats">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="76" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="59" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="77">    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="52"/>  
+  </dependency>  
+  <dependency id="78">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="25"/>  
+  </dependency>  
+  <association id="79">    
+    <end type="SOURCE" refId="55" navigable="false">      
+      <attribute id="80" name="mhp">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="81" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="59" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="82">    
+    <end type="SOURCE" refId="54" navigable="false">      
+      <attribute id="83" name="tags">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="84" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="51" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="85">    
+    <end type="SOURCE" refId="39"/>    
+    <end type="TARGET" refId="59"/>  
+  </dependency>  
+  <dependency id="86">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="54"/>  
+  </dependency>  
+  <dependency id="87">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="54"/>  
+  </dependency>  
+  <dependency id="88">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="89">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="48"/>  
+  </dependency>  
+  <dependency id="90">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="48"/>  
+  </dependency>  
+  <dependency id="91">    
+    <end type="SOURCE" refId="38"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <generalization id="92">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <association id="93">    
+    <end type="SOURCE" refId="39" navigable="false">      
+      <attribute id="94" name="gameArea">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="95" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="43" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="96">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="97" name="firstError">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="98" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="49" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="99">    
+    <end type="SOURCE" refId="57" navigable="false">      
+      <attribute id="100" name="defItems">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="101" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="57" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="102">    
+    <end type="SOURCE" refId="38"/>    
+    <end type="TARGET" refId="57"/>  
+  </dependency>  
+  <dependency id="103">    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <dependency id="104">    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="49"/>  
+  </dependency>  
+  <dependency id="105">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="50"/>  
+  </dependency>  
+  <dependency id="106">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="53"/>  
+  </dependency>  
+  <dependency id="107">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="48"/>  
+  </dependency>  
+  <dependency id="108">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <generalization id="109">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <dependency id="110">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="111">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <dependency id="112">    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="14"/>  
+  </dependency>  
+  <dependency id="113">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="43"/>  
+  </dependency>  
+  <generalization id="114">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="3"/>  
+  </generalization>  
+  <dependency id="115">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <association id="116">    
+    <end type="SOURCE" refId="51" navigable="false">      
+      <attribute id="117" name="value">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="118" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="119">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="48"/>  
+  </dependency>  
+  <dependency id="120">    
+    <end type="SOURCE" refId="40"/>    
+    <end type="TARGET" refId="39"/>  
+  </dependency>  
+  <dependency id="121">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <dependency id="122">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <association id="123">    
+    <end type="SOURCE" refId="41" navigable="false">      
+      <attribute id="124" name="type">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="125" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="126">    
+    <end type="SOURCE" refId="58" navigable="false">      
+      <attribute id="127" name="item">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="128" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="57" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="129">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="57"/>  
+  </dependency>  
+  <dependency id="130">    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <generalization id="131">    
+    <end type="SOURCE" refId="36"/>    
+    <end type="TARGET" refId="26"/>  
+  </generalization>  
+  <generalization id="132">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="27"/>  
+  </generalization>  
+  <dependency id="133">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="30"/>  
+  </dependency>  
+  <dependency id="134">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <dependency id="135">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="53"/>  
+  </dependency>  
+  <dependency id="136">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="137">    
+    <end type="SOURCE" refId="45"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <nesting id="138">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="23"/>  
+  </nesting>  
+  <dependency id="139">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="57"/>  
+  </dependency>  
+  <nesting id="140">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="8"/>  
+  </nesting>  
+  <dependency id="141">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="57"/>  
+  </dependency>  
+  <generalization id="142">    
+    <end type="SOURCE" refId="53"/>    
+    <end type="TARGET" refId="50"/>  
+  </generalization>  
+  <generalization id="143">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="27"/>  
+  </generalization>  
+  <dependency id="144">    
+    <end type="SOURCE" refId="38"/>    
+    <end type="TARGET" refId="56"/>  
+  </dependency>  
+  <dependency id="145">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="45"/>  
+  </dependency>  
+  <dependency id="146">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="43"/>  
+  </dependency>  
+  <dependency id="147">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <generalization id="148">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <dependency id="149">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="47"/>  
+  </dependency>  
+  <dependency id="150">    
+    <end type="SOURCE" refId="38"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <association id="151">    
+    <end type="SOURCE" refId="57" navigable="false">      
+      <attribute id="152" name="userItems">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="153" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="57" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="154">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="29"/>  
+  </dependency>  
+  <generalization id="155">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <dependency id="156">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="45"/>  
+  </dependency>  
+  <dependency id="157">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <dependency id="158">    
+    <end type="SOURCE" refId="48"/>    
+    <end type="TARGET" refId="46"/>  
+  </dependency>  
+  <dependency id="159">    
+    <end type="SOURCE" refId="56"/>    
+    <end type="TARGET" refId="57"/>  
+  </dependency>  
+  <dependency id="160">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <dependency id="161">    
+    <end type="SOURCE" refId="39"/>    
+    <end type="TARGET" refId="48"/>  
+  </dependency>  
+  <dependency id="162">    
+    <end type="SOURCE" refId="48"/>    
+    <end type="TARGET" refId="52"/>  
+  </dependency>  
+  <dependency id="163">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <generalization id="164">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <association id="165">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="166" name="type">        
+        <position height="0" width="0" x="1089" y="685"/>      
+      </attribute>      
+      <multiplicity id="167" minimum="0" maximum="1">        
+        <position height="0" width="0" x="1089" y="685"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="168">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="169" name="functions">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="170" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="171">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="172">    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="27"/>  
+  </dependency>  
+  <dependency id="173">    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="28"/>  
+  </dependency>  
+  <dependency id="174">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="175">    
+    <end type="SOURCE" refId="39"/>    
+    <end type="TARGET" refId="55"/>  
+  </dependency>  
+  <dependency id="176">    
+    <end type="SOURCE" refId="35"/>    
+    <end type="TARGET" refId="45"/>  
+  </dependency>  
+  <dependency id="177">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="50"/>  
+  </dependency>  
+  <dependency id="178">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="54"/>  
+  </dependency>  
+  <association id="179">    
+    <end type="SOURCE" refId="55" navigable="false">      
+      <attribute id="180" name="att">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="181" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="59" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="182">    
+    <end type="SOURCE" refId="48"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="183">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="48"/>  
+  </dependency>  
+  <dependency id="184">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="31"/>  
+  </dependency>  
+  <dependency id="185">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="53"/>  
+  </dependency>  
+  <nesting id="186">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="12"/>  
+  </nesting>  
+  <dependency id="187">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="24"/>  
+  </dependency>  
+  <dependency id="188">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <dependency id="189">    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="25"/>  
+  </dependency>  
+  <association id="190">    
+    <end type="SOURCE" refId="55" navigable="false">      
+      <attribute id="191" name="mny">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="192" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="59" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="193">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <dependency id="194">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <association id="195">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="196" name="finalParams">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="197" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="198">    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="45"/>  
+  </dependency>  
+  <dependency id="199">    
+    <end type="SOURCE" refId="45"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <association id="200">    
+    <end type="SOURCE" refId="56" navigable="false">      
+      <attribute id="201" name="items">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="202" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="58" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="203">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="43"/>  
+  </dependency>  
+  <dependency id="204">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="54"/>  
+  </dependency>  
+  <dependency id="205">    
+    <end type="SOURCE" refId="38"/>    
+    <end type="TARGET" refId="27"/>  
+  </dependency>  
+  <dependency id="206">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="32"/>  
+  </dependency>  
+  <association id="207">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="208" name="commands">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="209" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="210">    
+    <end type="SOURCE" refId="38"/>    
+    <end type="TARGET" refId="39"/>  
+  </dependency>  
+  <generalization id="211">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <dependency id="212">    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="14"/>  
+  </dependency>  
+  <dependency id="213">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="54"/>  
+  </dependency>  
+  <dependency id="214">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="16"/>  
+  </dependency>  
+  <dependency id="215">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="53"/>  
+  </dependency>  
+  <dependency id="216">    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="46"/>  
+  </dependency>  
+  <association id="217">    
+    <end type="SOURCE" refId="42" navigable="false">      
+      <attribute id="218" name="curArg">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="219" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="220">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="48"/>  
+  </dependency>  
+  <dependency id="221">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="45"/>  
+  </dependency>  
+  <dependency id="222">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="51"/>  
+  </dependency>  
+  <dependency id="223">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="53"/>  
+  </dependency>  
+  <generalization id="224">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <dependency id="225">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="48"/>  
+  </dependency>  
+  <dependency id="226">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="39"/>  
+  </dependency>  
+  <generalization id="227">    
+    <end type="SOURCE" refId="54"/>    
+    <end type="TARGET" refId="50"/>  
+  </generalization>  
+  <dependency id="228">    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="39"/>  
+  </dependency>  
+  <generalization id="229">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <dependency id="230">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="48"/>  
+  </dependency>  
+  <dependency id="231">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="45"/>  
+  </dependency>  
+  <dependency id="232">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="19"/>  
+  </dependency>  
+  <dependency id="233">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="48"/>  
+  </dependency>  
+  <association id="234">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="235" name="evals">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="236" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="237">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <dependency id="238">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <nesting id="239">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="20"/>  
+  </nesting>  
+  <dependency id="240">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="25"/>  
+  </dependency>  
+  <nesting id="241">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="24"/>  
+  </nesting>  
+  <generalization id="242">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <association id="243">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="244" name="error">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="245" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="49" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="246">    
+    <end type="SOURCE" refId="45"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="247">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="24"/>  
+  </dependency>  
+  <dependency id="248">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="249">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <nesting id="250">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="17"/>  
+  </nesting>  
+  <dependency id="251">    
+    <end type="SOURCE" refId="38"/>    
+    <end type="TARGET" refId="52"/>  
+  </dependency>  
+  <association id="252">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="253" name="args">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="254" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="255">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="57"/>  
+  </dependency>  
+  <dependency id="256">    
+    <end type="SOURCE" refId="38"/>    
+    <end type="TARGET" refId="55"/>  
+  </dependency>  
+  <dependency id="257">    
+    <end type="SOURCE" refId="38"/>    
+    <end type="TARGET" refId="40"/>  
+  </dependency>  
+  <dependency id="258">    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="43"/>  
+  </dependency>  
+  <dependency id="259">    
+    <end type="SOURCE" refId="48"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <generalization id="260">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="47"/>  
+  </generalization>  
+  <dependency id="261">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="51"/>  
+  </dependency>  
+  <generalization id="262">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <generalization id="263">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <association id="264">    
+    <end type="SOURCE" refId="45" navigable="false">      
+      <attribute id="265" name="parts">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="266" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="46" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="267">    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="27"/>  
+  </generalization>  
+  <association id="268">    
+    <end type="SOURCE" refId="28" navigable="false">      
+      <attribute id="269" name="validLocs">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="270" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="43" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="271">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="17"/>  
+  </dependency>  
+  <dependency id="272">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="54"/>  
+  </dependency>  
+  <dependency id="273">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="52"/>  
+  </dependency>  
+  <dependency id="274">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <dependency id="275">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="53"/>  
+  </dependency>  
+  <dependency id="276">    
+    <end type="SOURCE" refId="45"/>    
+    <end type="TARGET" refId="27"/>  
+  </dependency>  
+  <association id="277">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="278" name="staticParams">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="279" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="280">    
+    <end type="SOURCE" refId="35"/>    
+    <end type="TARGET" refId="39"/>  
+  </dependency>  
+  <dependency id="281">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="13"/>  
+  </dependency>  
+  <dependency id="282">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="56"/>  
+  </dependency>  
+  <association id="283">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="284" name="inputArgsAsParts">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="285" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="286">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="287" name="argTypes">        
+        <position height="0" width="0" x="1089" y="685"/>      
+      </attribute>      
+      <multiplicity id="288" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="1089" y="685"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="289">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="11"/>  
+  </nesting>  
+  <dependency id="290">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="53"/>  
+  </dependency>  
+  <dependency id="291">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="54"/>  
+  </dependency>  
+  <dependency id="292">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="45"/>  
+  </dependency>  
+  <generalization id="293">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="28"/>  
+  </generalization>  
+  <generalization id="294">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="26"/>  
+  </generalization>  
+  <dependency id="295">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="53"/>  
+  </dependency>  
+  <association id="296">    
+    <end type="SOURCE" refId="55" navigable="false">      
+      <attribute id="297" name="luc">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="298" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="59" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="299">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="16"/>  
+  </dependency>  
+  <association id="300">    
+    <end type="SOURCE" refId="55" navigable="false">      
+      <attribute id="301" name="lvl">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="302" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="59" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="303">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="54"/>  
+  </dependency>  
+  <dependency id="304">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <dependency id="305">    
+    <end type="SOURCE" refId="40"/>    
+    <end type="TARGET" refId="42"/>  
+  </dependency>  
+  <dependency id="306">    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <association id="307">    
+    <end type="SOURCE" refId="55" navigable="false">      
+      <attribute id="308" name="exp">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="309" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="59" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="310">    
+    <end type="SOURCE" refId="48"/>    
+    <end type="TARGET" refId="43"/>  
+  </dependency>  
+  <dependency id="311">    
+    <end type="SOURCE" refId="34"/>    
+    <end type="TARGET" refId="45"/>  
+  </dependency>  
+  <dependency id="312">    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="43"/>  
+  </dependency>  
+  <generalization id="313">    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="26"/>  
+  </generalization>  
+  <dependency id="314">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="53"/>  
+  </dependency>  
+  <dependency id="315">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <dependency id="316">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="54"/>  
+  </dependency>  
+  <dependency id="317">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="50"/>  
+  </dependency>  
+  <dependency id="318">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="36"/>  
+  </dependency>  
+  <dependency id="319">    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="39"/>  
+  </dependency>  
+  <dependency id="320">    
+    <end type="SOURCE" refId="35"/>    
+    <end type="TARGET" refId="43"/>  
+  </dependency>  
+  <dependency id="321">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="27"/>  
+  </dependency>  
+  <dependency id="322">    
+    <end type="SOURCE" refId="36"/>    
+    <end type="TARGET" refId="45"/>  
+  </dependency>  
+  <dependency id="323">    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <dependency id="324">    
+    <end type="SOURCE" refId="48"/>    
+    <end type="TARGET" refId="28"/>  
+  </dependency>  
+  <association id="325">    
+    <end type="SOURCE" refId="55" navigable="false">      
+      <attribute id="326" name="chp">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="327" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="59" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="328">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <association id="329">    
+    <end type="SOURCE" refId="42" navigable="false">      
+      <attribute id="330" name="sets">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="331" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="332">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="23"/>  
+  </dependency>  
+  <generalization id="333">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <dependency id="334">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <dependency id="335">    
+    <end type="SOURCE" refId="48"/>    
+    <end type="TARGET" refId="51"/>  
+  </dependency>  
+  <nesting id="336">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="18"/>  
+  </nesting>  
+  <dependency id="337">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="22"/>  
+  </dependency>  
+  <dependency id="338">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="39"/>  
+  </dependency>  
+  <dependency id="339">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="54"/>  
+  </dependency>  
+  <generalization id="340">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <dependency id="341">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <dependency id="342">    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="45"/>  
+  </dependency>  
+  <dependency id="343">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <dependency id="344">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <association id="345">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="346" name="tags">        
+        <position height="0" width="0" x="1620" y="-28"/>      
+      </attribute>      
+      <multiplicity id="347" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="1620" y="-28"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="348">    
+    <end type="SOURCE" refId="39" navigable="false">      
+      <attribute id="349" name="output">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="350" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="45" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="351">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <dependency id="352">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="13"/>  
+  </dependency>  
+  <generalization id="353">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="26"/>  
+  </generalization>  
+  <dependency id="354">    
+    <end type="SOURCE" refId="40"/>    
+    <end type="TARGET" refId="46"/>  
+  </dependency>  
+  <association id="355">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="356" name="bestSet">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="357" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="358">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="25"/>  
+  </dependency>  
+  <dependency id="359">    
+    <end type="SOURCE" refId="57"/>    
+    <end type="TARGET" refId="56"/>  
+  </dependency>  
+  <dependency id="360">    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="50"/>  
+  </dependency>  
+  <dependency id="361">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="362">    
+    <end type="SOURCE" refId="40"/>    
+    <end type="TARGET" refId="45"/>  
+  </dependency>  
+  <association id="363">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="364" name="set">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="365" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="366">    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <dependency id="367">    
+    <end type="SOURCE" refId="36"/>    
+    <end type="TARGET" refId="57"/>  
+  </dependency>  
+  <dependency id="368">    
+    <end type="SOURCE" refId="39"/>    
+    <end type="TARGET" refId="42"/>  
+  </dependency>  
+  <dependency id="369">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="54"/>  
+  </dependency>  
+  <dependency id="370">    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="57"/>  
+  </dependency>  
+  <dependency id="371">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="372">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <dependency id="373">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="33"/>  
+  </dependency>  
+  <association id="374">    
+    <end type="SOURCE" refId="28" navigable="false">      
+      <attribute id="375" name="argSets">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="376" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="377">    
+    <end type="SOURCE" refId="35"/>    
+    <end type="TARGET" refId="27"/>  
+  </generalization>  
+  <dependency id="378">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="57"/>  
+  </dependency>  
+  <association id="379">    
+    <end type="SOURCE" refId="42" navigable="false">      
+      <attribute id="380" name="optionsList">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="381" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="41" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="382">    
+    <end type="SOURCE" refId="48"/>    
+    <end type="TARGET" refId="54"/>  
+  </dependency>  
+  <generalization id="383">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <dependency id="384">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="57"/>  
+  </dependency>  
+  <dependency id="385">    
+    <end type="SOURCE" refId="48"/>    
+    <end type="TARGET" refId="39"/>  
+  </dependency>  
+  <dependency id="386">    
+    <end type="SOURCE" refId="54"/>    
+    <end type="TARGET" refId="53"/>  
+  </dependency>  
+  <generalization id="387">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="3"/>  
+  </generalization>  
+  <dependency id="388">    
+    <end type="SOURCE" refId="38"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <dependency id="389">    
+    <end type="SOURCE" refId="39"/>    
+    <end type="TARGET" refId="56"/>  
+  </dependency>  
+  <generalization id="390">    
+    <end type="SOURCE" refId="34"/>    
+    <end type="TARGET" refId="27"/>  
+  </generalization>  
+  <dependency id="391">    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="48"/>  
+  </dependency>  
+  <dependency id="392">    
+    <end type="SOURCE" refId="38"/>    
+    <end type="TARGET" refId="42"/>  
+  </dependency>  
+  <dependency id="393">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="22"/>  
+  </dependency>  
+  <association id="394">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="395" name="parts">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="396" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="397">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="57"/>  
+  </dependency>  
+  <nesting id="398">    
+    <end type="SOURCE" refId="45"/>    
+    <end type="TARGET" refId="44"/>  
+  </nesting>  
+  <association id="399">    
+    <end type="SOURCE" refId="55" navigable="false">      
+      <attribute id="400" name="def">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="401" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="59" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="402">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="403">    
+    <end type="SOURCE" refId="48"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <dependency id="404">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="53"/>  
+  </dependency>  
+  <generalization id="405">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <dependency id="406">    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="24"/>  
+  </dependency>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

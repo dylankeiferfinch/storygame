@@ -1,0 +1,1 @@
+Sword;sword;A dangerous weapon forged in the depths of hell.;
